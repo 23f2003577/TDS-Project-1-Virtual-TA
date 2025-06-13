@@ -1,0 +1,14 @@
+openai>=1.0
+python-dotenv
+beautifulsoup4
+argparse
+fastapi
+httpx
+markdownify
+numpy
+semantic-text-splitter
+tqdm
+uvicorn
+google-genai
+pillow
+html2text
