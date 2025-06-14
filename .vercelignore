@@ -1,0 +1,6 @@
+*.md
+*.webp
+*.yaml
+.env
+__pycache__/
+.ipynb_checkpoints/
