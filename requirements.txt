@@ -10,5 +10,7 @@ semantic-text-splitter
 tqdm
 uvicorn
 google-genai
+google-generativeai
 pillow
 html2text
+sentence-transformers
